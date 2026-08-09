@@ -83,7 +83,6 @@ body {
 .mynavbar .nav-link {
   text-transform: uppercase;
   color: black;
-  mix-blend-mode: difference;
 }
 
 .home {
